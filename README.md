@@ -1,5 +1,4 @@
-🍕 Pizza Restaurant Review Q\&A Chatbot
-
+🍕 Pizza Restaurant Review Q&A Chatbot
 This is an AI-powered chatbot that answers user questions about a pizza restaurant using real customer reviews. It combines vector search and LLMs to give relevant, context-aware responses.
 
 ## 🧠 Features
