@@ -1,4 +1,7 @@
-🍕 Pizza Restaurant Review Q&A Chatbot
+
+
+# 🍕 Pizza Restaurant Review Q\&A Chatbot
+
 This is an AI-powered chatbot that answers user questions about a pizza restaurant using real customer reviews. It combines vector search and LLMs to give relevant, context-aware responses.
 
 ## 🧠 Features
@@ -64,12 +67,11 @@ Ask your question (q to quit): What do customers think about the crust?
 * Make sure `realistic_restaurant_reviews.csv` exists with at least the columns: `Title`, `Review`, `Rating`, `Date`.
 
 
+
 ## 👨‍🍳 Made With
 
 * [LangChain](https://www.langchain.com/)
 * [Ollama](https://ollama.com/)
 * [Chroma](https://www.trychroma.com/)
 * [Pandas](https://pandas.pydata.org/)
-
--
 
